@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.doliapps.dolipay",
+      "sha256_cert_fingerprints": [
+        "E7:3D:90:A6:2F:E5:08:E8:C1:2F:BC:05:A9:AA:B9:5F:03:D7:85:52:5E:9D:AC:FA:C9:0B:C4:CB:F9:1D:29:1D"
+      ]
+    }
+  }
+]
